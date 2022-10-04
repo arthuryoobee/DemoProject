@@ -1,4 +1,15 @@
 
 Hi, this is another file.
 
+<<<<<<< Updated upstream
 second changes
+=======
+
+Ok, this is Arthur adding a second line to the second.txt.
+Will have to stash changes using "git stash"
+then go "git pull"
+then go "git stash apply"
+See the merges to fix
+Arthur fixes the merged changes manually
+and then adds, commits and pushes
+>>>>>>> Stashed changes
